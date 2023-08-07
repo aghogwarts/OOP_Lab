@@ -5,7 +5,7 @@
     d. a & b 
 */
 
-package Lab_2;
+package Lab_2.Additional;
 
 import java.util.Scanner;
 

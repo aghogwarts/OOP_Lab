@@ -3,7 +3,7 @@
     int y = x;             int y =(int)x; 
 */
 
-package Lab_2;
+package Lab_2.Additional;
 
 public class Execute_additional_b {
     public static void main(String[] args) {
