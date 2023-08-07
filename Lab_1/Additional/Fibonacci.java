@@ -1,5 +1,3 @@
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
 
 public class Fibonacci {
     public static void main(String[] args) {
@@ -9,7 +7,7 @@ public class Fibonacci {
         int temp;
         System.out.println(0);
         System.out.println(1);
-        for (int x = 1; x < 13; x++){
+        for (int x = 1; x < 13; x++) {
             temp = n_2;
             n_2 += n_1;
             n_1 = temp;

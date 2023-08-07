@@ -1,5 +1,4 @@
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
+/* Write a program to check whether a number is palindrome or not. */
 
 public class Palindrome {
     public static void main(String[] args) {
@@ -12,10 +11,9 @@ public class Palindrome {
             n = n / 10;
         }
         if (rev == num) {
-            System.out.println("\n-- The entered number "+num+" is a palindrome");
-        }
-        else {
-            System.out.println("\n-- The entered number "+num+" is not a palindrome");
+            System.out.println("\n-- The entered number " + num + " is a palindrome");
+        } else {
+            System.out.println("\n-- The entered number " + num + " is not a palindrome");
         }
     }
 }
