@@ -3,12 +3,12 @@
     int y = x;             int y =(int)x; 
 */
 
-package Lab_2.Additional;
+package Lab_2;
 
-public class Execute_additional_a {
+public class Execute_additional_b {
     public static void main(String[] args) {
         boolean x = true;
-        int y = x;
+        int y = (int) x;
         System.out.println(y);
     }
 }
