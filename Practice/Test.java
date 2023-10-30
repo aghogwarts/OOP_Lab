@@ -1,3 +1,11 @@
+/*
+Implement a multithreaded program with two threads with the tasks as defined
+1 - count the no of words which start with a vowel
+2 - count the length of each word in a sentence
+
+Both the threads should work on single input sentence same and above task should be repeated in a loop one after the other
+*/
+
 package Practice;
 
 import java.util.concurrent.locks.Lock;
